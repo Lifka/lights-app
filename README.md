@@ -1,5 +1,5 @@
 # Lights
-Proyecto Trabajo Final de Grado (Ingería Informática).
+Proyecto Trabajo Final de Grado (Ingeniería Informática).
 
 ## Título
 Interacción móvil en sistemas de automatización domótica 

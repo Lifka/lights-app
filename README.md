@@ -1,8 +1,8 @@
-# Lights
-Proyecto Trabajo Final de Grado (Ingeniería Informática).
-
-## Título
-Interacción móvil en sistemas de automatización domótica 
+# Interacción móvil en sistemas de automatización domótica
+Sistema desarrollado: Lights (Android APP).  
+Trabajo Final de Grado (Ingeniería Informática).  
+Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada.  
+Septiembre 2019.  
 
 ## Descargar aplicación Android
 Google Play: https://play.google.com/store/apps/details?id=com.javierizquierdovera.emotions.lights
